@@ -98,16 +98,3 @@ body{
     color: var(--black);
 }
 
-@media (min-width: 768px) {
-    body{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .main-container{
-        display: grid;
-        grid-template-columns: repeat(4,25%);
-        grid-
-    }
-
-}
